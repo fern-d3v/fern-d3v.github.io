@@ -38,7 +38,10 @@ footer a {
 
 footer a:hover {
   text-decoration: underline magenta;
+  text-transform: uppercase;
+  text-decoration-skip-ink: auto;
 }
+
 
 footer a:visited {
   color: #d0d0d0;
