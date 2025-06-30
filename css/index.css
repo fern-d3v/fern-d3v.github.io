@@ -39,3 +39,8 @@ footer a {
 footer a:hover {
   text-decoration: underline magenta;
 }
+
+footer a:visited {
+  color: #d0d0d0;
+}
+
